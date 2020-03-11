@@ -3,3 +3,5 @@ Esto es una prueba del curso de git y github
 Hola, me llamo Nazareno Rosales!
 
 otra linea de texto
+
+hoy es miercoles
